@@ -1,7 +1,6 @@
-import "style.scss";
+import "./style.scss";
 
 function Example() {
-  return "This is an example components";
+  return <h1>Hello</h1>;
 }
-
 export { Example };
